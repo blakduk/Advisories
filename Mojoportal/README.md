@@ -7,6 +7,7 @@
 <br />- Affected Product Code Base: Mojoportal - v2.7
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
+<br />- PoC: https://youtu.be/a-Fl5dfnDnc
 <br />- Reference:
 <br />https://www.mojoportal.com/
 <br />https://github.com/i7MEDIA/mojoportal
@@ -19,6 +20,7 @@
 <br />- Affected Product Code Base: Mojoportal - v2.7
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
+<br />- PoC: https://youtu.be/GhMLACuFjL4
 <br />- Reference:
 <br />https://www.mojoportal.com/
 <br />https://github.com/i7MEDIA/mojoportal
@@ -40,6 +42,7 @@
 <br />- Affected Product Code Base: Mojoportal - v2.7
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
+<br />- PoC: https://youtu.be/-7UfEQ0XtLY
 <br />- Reference:
 <br />https://www.mojoportal.com/
 <br />https://github.com/i7MEDIA/mojoportal
