@@ -2,7 +2,7 @@ Froxlor Multiple Vulnerabilities
 ############################################################<br />
 <br />**[CVE-2023-0877] Remote Code Execution in "Import Settings" feature**
 <br />- Description: Due to Improper data validation in "Import Settings" feature, an authenticated attacker can send crafted settings with malicious payload inside "system.croncmdline" value.
-<br />- Vulnerability Type: Code Injextion
+<br />- Vulnerability Type: Code Injection
 <br />- Vendor of Product: Froxlor
 <br />- Affected Product Code Base: Froxlor - v2.0.10
 <br />- Attack Type: Remote
